@@ -19,3 +19,11 @@
     color: #1F2431;
     padding: 15px;
  }
+
+ .nav-container nav a:hover {
+    text-decoration: underline;
+  }
+
+  .nav-container nav {
+    padding-right:500px;
+  }
