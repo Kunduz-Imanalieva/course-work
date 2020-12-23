@@ -190,3 +190,7 @@ footer div input::placeholder {
     font-family: 'Montserrat', sans-serif;
     cursor: pointer;
     }
+
+    footer div button:hover {
+        background-color: #3553be;
+      }
