@@ -32,6 +32,12 @@
   }
 
 
+  header {
+    display: flex;
+    align-items: center;
+    padding: 40px;
+  }
+
   header .header-container h1 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
