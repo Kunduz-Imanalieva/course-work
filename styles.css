@@ -198,3 +198,12 @@ footer div input::placeholder {
       footer div form {
         display: inline-table;
       }   
+
+      footer div small {
+        display: flex;
+        font-size: 12px;
+        font-family: 'Montserrat', sans-serif;
+        color: #82899B;
+        padding-top: 50px;
+      }
+        
