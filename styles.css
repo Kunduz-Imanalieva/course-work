@@ -162,3 +162,11 @@
   footer img {
     padding-top: 25px;
   }
+
+  footer div input {
+    border: 1px solid #82899B;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    width: 218px;
+    height: 39px;
+}
