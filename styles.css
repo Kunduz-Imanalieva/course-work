@@ -194,3 +194,7 @@ footer div input::placeholder {
     footer div button:hover {
         background-color: #3553be;
       }
+
+      footer div form {
+        display: inline-table;
+      }   
