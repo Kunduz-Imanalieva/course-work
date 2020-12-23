@@ -86,3 +86,11 @@
     padding: 35px;
     padding-right: 120px;
   }
+
+  main h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 29px;
+    padding: 35px;
+  }
