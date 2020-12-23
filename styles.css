@@ -126,6 +126,12 @@
  }
 
 
+ footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+  }
+
  footer div h5 {
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
