@@ -177,3 +177,16 @@ footer div input::placeholder {
     color: #82899B;
     padding-left: 5px;
   }
+
+  footer div button {
+    background: #315EFB;
+    border: 1px solid #315EFB;
+    color: white;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    width: 106px;
+    height: 39.5px;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+    }
