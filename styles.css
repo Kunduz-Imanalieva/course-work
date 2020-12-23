@@ -105,3 +105,8 @@
     border-radius: 6px;
     width: 565px;
   }
+
+  strong {
+    color: black;
+    font-weight: 500;
+  }
