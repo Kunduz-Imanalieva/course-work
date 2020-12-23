@@ -99,3 +99,9 @@
     margin-left: 50px;
     padding-bottom: 10px;
   }
+
+  main article {
+    background-color: #FAFCFF;
+    border-radius: 6px;
+    width: 565px;
+  }
