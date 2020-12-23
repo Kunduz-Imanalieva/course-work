@@ -76,6 +76,12 @@
     background-color: #3553be;
   }
 
+  main {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
 
   main article p {
     font-family: 'Montserrat', sans-serif;
