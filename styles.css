@@ -116,3 +116,11 @@
     color: black;
     font-weight: 500;
   }
+
+  .sixth-article p {
+    padding-top: 0px;
+ }
+ 
+ .sixth-article h3 {
+   padding-bottom: 0px;
+ }
