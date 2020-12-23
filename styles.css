@@ -49,3 +49,19 @@
     color:#82899B;
     width: 251px;
   }
+
+
+  header .header-container button {
+    border-radius: 51px;
+    border-color: #315EFB;
+    background-color: #315EFB;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+    text-align: center;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    cursor: pointer;
+    width: 215px;
+    height: 40px;
+  }
