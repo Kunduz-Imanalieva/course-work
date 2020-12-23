@@ -148,6 +148,10 @@
     color: #82899B;
   }
 
+  footer a:hover {
+    text-decoration: underline;
+  }
+
   footer p {
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
