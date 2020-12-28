@@ -127,6 +127,8 @@
 
 .roadmap {
   display: flex;
+  align-items: center;
+  max-width: 410px;
 }
 
 .roadmap span {
