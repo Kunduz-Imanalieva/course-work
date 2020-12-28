@@ -146,10 +146,8 @@
   font-weight: 300;
   line-height: 18px;
   color: #82899B;
-}
-
-.roadmap p {
   padding: 0px;
+  width: 100px;
 }
 
 .roadmap img {
@@ -161,10 +159,6 @@
   height: 120px;
   display: inline-block;
   text-align:left;
-}
-
-.roadmap p {
-  width: 100px;
 }
 
 .roadmap .line {
