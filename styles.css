@@ -171,6 +171,10 @@
   padding-bottom: 20px;
 }
 
+.third-map .three-circle {
+  padding-top: 7px;
+}
+
  footer{
     display: flex;
     justify-content: space-between;
