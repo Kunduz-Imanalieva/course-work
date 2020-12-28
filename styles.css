@@ -126,6 +126,15 @@
  }
 
 
+.roadmap span {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 10px;
+  font-weight: 300;
+  line-height: 18px;
+  color: #1F2431;
+}
+
+
  footer{
     display: flex;
     justify-content: space-between;
