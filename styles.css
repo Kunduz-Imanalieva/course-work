@@ -354,10 +354,16 @@ footer div input::placeholder {
     }
 
     .roadmap {
-      width: 400px;
+      width: 350px;
       text-align: left;
+      padding-left: 10px;
+      margin-right: 0px;
     }
     .roadmap img {
       width: 20px;
+    }
+
+    .roadmap .line {
+      width: 110px ;
     }
  }
