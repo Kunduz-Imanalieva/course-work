@@ -340,4 +340,12 @@ footer div input::placeholder {
     footer {
       padding: 0px;
     }
+
+    .roadmap {
+      width: 400px;
+      text-align: left;
+    }
+    .roadmap img {
+      width: 20px;
+    }
  }
