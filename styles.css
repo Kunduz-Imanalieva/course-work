@@ -129,6 +129,7 @@
   display: flex;
   align-items: center;
   max-width: 410px;
+  padding-left: 35px;
 }
 
 .roadmap span {
