@@ -167,6 +167,10 @@
   width: 100px;
 }
 
+.roadmap .line {
+  padding-bottom: 20px;
+}
+
  footer{
     display: flex;
     justify-content: space-between;
