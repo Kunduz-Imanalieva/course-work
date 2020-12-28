@@ -125,6 +125,9 @@
    padding-bottom: 0px;
  }
 
+.roadmap {
+  display: flex;
+}
 
 .roadmap span {
   font-family: 'Montserrat', sans-serif;
