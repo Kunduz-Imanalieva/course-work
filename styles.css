@@ -137,6 +137,14 @@
   color: #1F2431;
 }
 
+.roadmap p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 18px;
+  color: #82899B;
+}
+
 
  footer{
     display: flex;
