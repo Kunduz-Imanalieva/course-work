@@ -364,6 +364,18 @@ footer div input::placeholder {
     }
 
     .roadmap .line {
-      width: 110px ;
+      width: 90px ;
+    }
+
+    .first-map {
+      width: 120px;
+    }
+
+    .second-map {
+      width: 120px;
+    }
+
+    .third-map {
+      width: 120px;
     }
  }
