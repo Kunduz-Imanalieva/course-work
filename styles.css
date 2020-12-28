@@ -169,6 +169,10 @@
   padding-top: 7px;
 }
 
+.three-circle p {
+  padding-top: 7px;
+}
+
  footer{
     display: flex;
     justify-content: space-between;
