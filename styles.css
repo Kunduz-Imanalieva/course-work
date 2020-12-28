@@ -148,7 +148,13 @@
   color: #82899B;
 }
 
+.roadmap p {
+  padding: 0px;
+}
 
+.roadmap img {
+  margin: 0px;
+}
 
 .roadmap .block {
   width: 120px;
