@@ -79,7 +79,7 @@ main {
   padding-bottom: 30px;
 }
 
-main .article p {
+main article p {
   font-family: "Montserrat", sans-serif;
   font-size: 16px;
   font-weight: 300;
@@ -101,7 +101,7 @@ main img {
   padding-bottom: 10px;
 }
 
-main .article {
+main article {
   background-color: #fafcff;
   border-radius: 6px;
   width: 565px;
@@ -256,9 +256,8 @@ footer div small {
 }
 
 @media screen and (max-width: 1230px) {
-  main section .article {
+  main section article {
     width: 480px;
-    
   }
 }
 
@@ -276,7 +275,7 @@ footer div small {
     padding-top: 0px;
     padding-bottom: 0px;
   }
- .article img {
+  article img {
     margin-left: 0px;
   }
 }
@@ -334,7 +333,7 @@ footer div small {
     width: 300px;
   }
 
-  main section .article {
+  main section article {
     width: 400px;
   }
 
@@ -346,7 +345,7 @@ footer div small {
     margin-left: 70px;
   }
 
-  .article img {
+  article img {
     width: 300px;
   }
 
